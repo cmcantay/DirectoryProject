@@ -1,0 +1,139 @@
+﻿@page "/index/{userId:int}"
+@inject NavigationManager Navigation
+@inject UserService UserService
+
+<h3>Rehber</h3>
+
+@if (entries == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>İsim</th>
+                <th>Soyisim</th>
+                <th>Telefon Numarası</th>
+                <th>İşlem Yap</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var entry in entries)
+            {
+                <tr>
+                    <td>@entry.FirstName</td>
+                    <td>@entry.LastName</td>
+                    <td>@entry.PhoneNumber</td>
+                    <td>
+                        <button class="btn btn-warning" @onclick="() => ShowUpdateEntryForm(entry)">Güncelle</button>
+                        <button class="btn btn-danger" @onclick="() => DeleteEntry(entry.DirectoryId)">Sil</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+<button class="btn btn-primary mt-3" @onclick="ShowAddEntryForm">Yeni Kayıt Ekle</button>
+<button class="btn btn-secondary mt-3" @onclick="Logout">Çıkış</button>
+
+@if (showAddEntryForm || showUpdateEntryForm)
+{
+    <div class="card mt-4">
+        <div class="card-body">
+            <h5 class="card-title">@formTitle</h5>
+            <EditForm Model="@entryModel" OnValidSubmit="HandleValidSubmit">
+                <DataAnnotationsValidator />
+                <ValidationSummary />
+
+                <div class="form-group">
+                    <label for="firstName">İsim</label>
+                    <InputText id="firstName" class="form-control" @bind-Value="entryModel.FirstName" />
+                </div>
+                <div class="form-group">
+                    <label for="lastName">Soyisim</label>
+                    <InputText id="lastName" class="form-control" @bind-Value="entryModel.LastName" />
+                </div>
+                <div class="form-group">
+                    <label for="phoneNumber">Telefon Numarası</label>
+                    <InputText id="phoneNumber" class="form-control" @bind-Value="entryModel.PhoneNumber" />
+                </div>
+                <button type="submit" class="btn btn-primary">Güncelle</button>
+                <button type="button" class="btn btn-secondary" @onclick="HideEntryForm">İptal</button>
+            </EditForm>
+        </div>
+    </div>
+}
+
+@code {
+    [Parameter]
+    public int userId { get; set; }
+
+    private List<DirectoryEntry> entries;
+    private DirectoryEntry entryModel = new DirectoryEntry();
+    private bool showAddEntryForm = false;
+    private bool showUpdateEntryForm = false;
+    private string formTitle = "Yeni Kayıt Ekle";
+
+    protected override async Task OnInitializedAsync()
+    {
+        entries = await UserService.GetDirectoryEntriesAsync(userId);
+    }
+
+    private void ShowAddEntryForm()
+    {
+        entryModel = new DirectoryEntry { UserId = userId };
+        formTitle = "Yeni Kayıt Ekle";
+        showAddEntryForm = true;
+        showUpdateEntryForm = false;
+    }
+
+    private void ShowUpdateEntryForm(DirectoryEntry entry)
+    {
+        entryModel = new DirectoryEntry
+            {
+                DirectoryId = entry.DirectoryId,
+                UserId = entry.UserId,
+                FirstName = entry.FirstName,
+                LastName = entry.LastName,
+                PhoneNumber = entry.PhoneNumber
+            };
+        formTitle = "Kayıt Güncelle";
+        showUpdateEntryForm = true;
+        showAddEntryForm = false;
+    }
+
+    private void HideEntryForm()
+    {
+        showAddEntryForm = false;
+        showUpdateEntryForm = false;
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        if (showAddEntryForm)
+        {
+            await UserService.AddDirectoryEntryAsync(entryModel);
+        }
+        else if (showUpdateEntryForm)
+        {
+            await UserService.UpdateDirectoryEntryAsync(entryModel);
+        }
+        entries = await UserService.GetDirectoryEntriesAsync(userId);
+        showAddEntryForm = false;
+        showUpdateEntryForm = false;
+    }
+
+    private async Task DeleteEntry(int directoryId)
+    {
+        await UserService.DeleteDirectoryEntryAsync(directoryId);
+        entries = await UserService.GetDirectoryEntriesAsync(userId);
+    }
+
+    private void Logout()
+    {
+        Navigation.NavigateTo("/");
+    }
+}

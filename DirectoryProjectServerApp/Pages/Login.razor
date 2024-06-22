@@ -1,0 +1,132 @@
+﻿@page "/"
+@using System.ComponentModel.DataAnnotations
+@using Microsoft.JSInterop
+@inject NavigationManager Navigation
+@inject UserService UserService
+@inject IJSRuntime JSRuntime
+
+<div class="d-flex justify-content-center align-items-center vh-100">
+    <div class="card" style="width: 22rem;">
+        <div class="card-body">
+            @if (!showRegister)
+            {
+                <h5 class="card-title text-center">Giriş Yap</h5>
+                <EditForm Model="@loginModel" OnValidSubmit="HandleLogin">
+                    <DataAnnotationsValidator />
+                    <ValidationSummary class="text-danger" />
+                    <div class="form-group">
+                        <label for="username">Kullanıcı Adı</label>
+                        <InputText id="username" class="form-control" @bind-Value="loginModel.Username" placeholder="Kullanıcı adı giriniz" />
+                        <ValidationMessage For="@(() => loginModel.Username)" />
+                    </div>
+                    <div class="form-group">
+                        <label for="password">Şifre</label>
+                        <InputText id="password" type="password" class="form-control" @bind-Value="loginModel.Password" placeholder="Şifre giriniz" />
+                        <ValidationMessage For="@(() => loginModel.Password)" />
+                    </div>
+                    <button type="submit" class="btn btn-primary btn-block">Giriş Yap</button>
+                    @if (loginFailed)
+                    {
+                        <p class="text-danger text-center mt-3">Giriş başarısız. Lütfen tekrar deneyin.</p>
+                    }
+                </EditForm>
+
+                <button class="btn btn-secondary btn-block mt-3" @onclick="ShowRegister">Kayıt Ol</button>
+            }
+            else
+            {
+                <h5 class="card-title text-center">Kayıt Ol</h5>
+                <EditForm Model="@registerModel" OnValidSubmit="HandleRegister">
+                    <DataAnnotationsValidator />
+                    <ValidationSummary class="text-danger" />
+                    <div class="form-group">
+                        <label for="registerUsername">Kullanıcı Adı</label>
+                        <InputText id="registerUsername" class="form-control" @bind-Value="registerModel.Username" placeholder="Kullanıcı adı giriniz" />
+                        <ValidationMessage For="@(() => registerModel.Username)" />
+                    </div>
+                    <div class="form-group">
+                        <label for="registerPassword">Şifre</label>
+                        <InputText id="registerPassword" type="password" class="form-control" @bind-Value="registerModel.Password" placeholder="Şifre giriniz" />
+                        <ValidationMessage For="@(() => registerModel.Password)" />
+                    </div>
+                    <button type="submit" class="btn btn-secondary btn-block">Kayıt Ol</button>
+                    <button class="btn btn-outline-secondary btn-block mt-3" @onclick="CancelRegister">İptal</button>
+                    @if (registerFailed)
+                    {
+                        <p class="text-danger text-center mt-3">Kayıt başarısız. Lütfen tekrar deneyin.</p>
+                    }
+                </EditForm>
+            }
+        </div>
+    </div>
+</div>
+
+@code {
+    private LoginModel loginModel = new LoginModel();
+    private RegisterModel registerModel = new RegisterModel();
+    private bool loginFailed;
+    private bool registerFailed;
+    private bool showRegister = false;
+
+    private void ShowRegister()
+    {
+        showRegister = true;
+    }
+
+    private void CancelRegister()
+    {
+        showRegister = false;
+    }
+
+    private async Task HandleLogin()
+    {
+        var userId = await UserService.ValidateUserAsync(loginModel.Username, loginModel.Password);
+        if (userId.HasValue)
+        {
+            loginFailed = false;
+            await SetUserCookie(userId.Value);
+            Navigation.NavigateTo($"/index/{userId.Value}");
+        }
+        else
+        {
+            loginFailed = true;
+        }
+    }
+
+    private async Task HandleRegister()
+    {
+        bool isSuccess = await UserService.RegisterUserAsync(registerModel.Username, registerModel.Password);
+        if (isSuccess)
+        {
+            registerFailed = false;
+            showRegister = false;
+        }
+        else
+        {
+            registerFailed = true;
+        }
+    }
+
+    private async Task SetUserCookie(int userId)
+    {
+        await JSRuntime.InvokeVoidAsync("setUserCookie", "UserId", userId.ToString(), 1);
+    }
+
+    public class LoginModel
+    {
+        [Required(ErrorMessage = "Kullanıcı adı gerekli")]
+        public string Username { get; set; }
+
+        [Required(ErrorMessage = "Şifre gerekli")]
+        public string Password { get; set; }
+    }
+
+    public class RegisterModel
+    {
+        [Required(ErrorMessage = "Kullanıcı adı gerekli")]
+        public string Username { get; set; }
+
+        [Required(ErrorMessage = "Şifre gerekli")]
+        public string Password { get; set; }
+    }
+}

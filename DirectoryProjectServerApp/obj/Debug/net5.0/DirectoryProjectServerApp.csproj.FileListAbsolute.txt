@@ -1,0 +1,209 @@
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\appsettings.json
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.StaticWebAssets.xml
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.exe
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.deps.json
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.runtimeconfig.json
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.runtimeconfig.dev.json
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.pdb
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.Views.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.Views.pdb
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.csproj.AssemblyReference.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.AssemblyInfoInputs.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.AssemblyInfo.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.csproj.CoreCompileInputs.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorComponent.input.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorComponent.output.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.TagHelpers.input.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.TagHelpers.output.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorCoreGenerate.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorAssemblyInfo.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorAssemblyInfo.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorTargetAssemblyInfo.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.Views.pdb
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\bundle\DirectoryProjectServerApp.styles.css
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\projectbundle\DirectoryProjectServerApp.bundle.scp.css
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\DirectoryProjectServerApp.StaticWebAssets.Manifest.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\DirectoryProjectServerApp.StaticWebAssets.Pack.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.DirectoryProjectServerApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.build.DirectoryProjectServerApp.props
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DirectoryProjectServerApp.props
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DirectoryProjectServerApp.props
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\DirectoryProjectServerApp.StaticWebAssets.xml
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Director.CBA36D64.Up2Date
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\refint\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.pdb
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.genruntimeconfig.cache
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\ref\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\CMC\Desktop\c#\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\appsettings.json
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.StaticWebAssets.xml
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.exe
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.deps.json
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.runtimeconfig.json
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.runtimeconfig.dev.json
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.pdb
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.Views.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.Views.pdb
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.csproj.AssemblyReference.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.AssemblyInfoInputs.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.AssemblyInfo.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.csproj.CoreCompileInputs.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorComponent.input.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorComponent.output.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.TagHelpers.input.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.TagHelpers.output.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorCoreGenerate.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorAssemblyInfo.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorAssemblyInfo.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorTargetAssemblyInfo.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.Views.pdb
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\bundle\DirectoryProjectServerApp.styles.css
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\projectbundle\DirectoryProjectServerApp.bundle.scp.css
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\DirectoryProjectServerApp.StaticWebAssets.Manifest.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\DirectoryProjectServerApp.StaticWebAssets.Pack.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.DirectoryProjectServerApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.build.DirectoryProjectServerApp.props
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DirectoryProjectServerApp.props
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DirectoryProjectServerApp.props
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\DirectoryProjectServerApp.StaticWebAssets.xml
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Director.CBA36D64.Up2Date
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\refint\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.pdb
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.genruntimeconfig.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\ref\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\appsettings.json
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.StaticWebAssets.xml
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.exe
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.deps.json
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.runtimeconfig.json
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.runtimeconfig.dev.json
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.pdb
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.Views.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\DirectoryProjectServerApp.Views.pdb
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.csproj.AssemblyReference.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.AssemblyInfoInputs.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.AssemblyInfo.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.csproj.CoreCompileInputs.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorComponent.input.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Pages\Login.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorComponent.output.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\RazorDeclaration\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.TagHelpers.input.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.TagHelpers.output.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorCoreGenerate.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Login.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Razor\Pages\_Host.cshtml.g.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorAssemblyInfo.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorAssemblyInfo.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorTargetAssemblyInfo.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.RazorTargetAssemblyInfo.cs
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.Views.pdb
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\bundle\DirectoryProjectServerApp.styles.css
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\scopedcss\projectbundle\DirectoryProjectServerApp.bundle.scp.css
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\DirectoryProjectServerApp.StaticWebAssets.Manifest.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\DirectoryProjectServerApp.StaticWebAssets.Pack.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.DirectoryProjectServerApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.build.DirectoryProjectServerApp.props
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.DirectoryProjectServerApp.props
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.DirectoryProjectServerApp.props
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\staticwebassets\DirectoryProjectServerApp.StaticWebAssets.xml
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\Director.CBA36D64.Up2Date
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\refint\DirectoryProjectServerApp.dll
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.pdb
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\DirectoryProjectServerApp.genruntimeconfig.cache
+C:\Users\CMC\Desktop\c#\Yedek\Yeni klasör\Yeni klasör\DirectoryProjectServerApp\DirectoryProjectServerApp\obj\Debug\net5.0\ref\DirectoryProjectServerApp.dll
